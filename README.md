@@ -1,5 +1,7 @@
 # Google Software Product Sprint
 
+Hi, my name is Matthew Kaplan!
+
 This repo contains the projects you'll work on throughout SPS.
 
 To get started:
